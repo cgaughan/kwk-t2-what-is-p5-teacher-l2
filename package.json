@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "intro to p5 for kwk",
   "scripts": {
-    "start": "http-server"
+    "start": "httpserver"
   },
   "repository": {
     "type": "git",
