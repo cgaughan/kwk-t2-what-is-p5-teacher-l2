@@ -35,3 +35,4 @@ After the TODOs have been completed your program should behave similar the gif b
 [p5-home]: "https://p5js.org/"
 [dl-p5]: "https://p5js.org/download/"
 [abstraction]: "https://en.wikipedia.org/wiki/Abstraction_(software_engineering)"
+<p data-visibility='hidden'>KWK-T2 Objectives</p>
