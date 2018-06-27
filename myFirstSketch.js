@@ -2,7 +2,6 @@ var chromeBoi;
 var tints;
 
 function setup() {
-  // No changes needed here!
   chromeBoi = loadImage("./assets/chrome-boi.png")
   tints = [
     tint.bind(null, 255, 100, 100),
